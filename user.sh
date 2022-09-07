@@ -6,3 +6,5 @@ _uid="$(id -u)"
 echo "Username : $_user"
 
 echo "User name ID(UID) : $_uid"
+
+echo "$SHELL"
